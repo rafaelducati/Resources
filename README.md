@@ -9,7 +9,7 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 ### Content Stragegy
 
 * [Contents Magazine](http://contentsmagazine.net/)
-* [http://pt.slideshare.net/trevor.vangorp/ux-iceberg1](The User Experience Iceberg by Trevor van Gorp)
+* [The User Experience Iceberg](http://pt.slideshare.net/trevor.vangorp/ux-iceberg1)
 
 ### Comunities
 
