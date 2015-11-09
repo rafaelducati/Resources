@@ -5,6 +5,7 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 ## UX
 
 * [52 Weeks of UX](http:/52weeksofux.com)
+* [UX Magazine](https://uxmag.com/)
 
 ### Content Stragegy
 
@@ -27,6 +28,7 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 
 ## Front-end
 
+* [Codrops](http://tympanus.net/codrops/)
 * [A List Apart](http://alistapart.com/)
 
 ### CSS
