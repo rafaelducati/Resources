@@ -26,7 +26,7 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 
 * [Google Design](http://www.google.com/design/)
 
-### Free images repository
+### Free images repositories
 
 * [Blue Vertigo](http://www.bluevertigo.com.ar/)
 
