@@ -4,11 +4,10 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 
 ## UX
 
-* [52 Weeks of UX](http:/52weeksofux.com)
-* [UX Magazine](https://uxmag.com/)
-
 ### Content Stragegy
 
+* [52 Weeks of UX](http:/52weeksofux.com)
+* [UX Magazine](https://uxmag.com/)
 * [Contents Magazine](http://contentsmagazine.net/)
 * [The User Experience Iceberg](http://pt.slideshare.net/trevor.vangorp/ux-iceberg1)
 
@@ -20,11 +19,16 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 
 ### Inspiration
 
+* [UI Movement](http://uimovement.com/)
 * [GUI Porn](http://guiporn.com/)
 
 ### Guides
 
 * [Google Design](http://www.google.com/design/)
+
+### Free images repository
+
+* [Blue Vertigo](http://www.bluevertigo.com.ar/)
 
 ## Front-end
 
