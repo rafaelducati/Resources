@@ -30,6 +30,11 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 
 * [Blue Vertigo](http://www.bluevertigo.com.ar/)
 
+### Icons
+
+* [Icons Responsive](http://iconsresponsive.com/)
+* [Icon Finder](http://iconfinder.com/)
+
 ## Front-end
 
 * [Codrops](http://tympanus.net/codrops/)
