@@ -11,6 +11,10 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 * [Contents Magazine](http://contentsmagazine.net/)
 * [The User Experience Iceberg](http://pt.slideshare.net/trevor.vangorp/ux-iceberg1)
 
+### Talks
+
+* [UIdeo](https://uideo.net/)
+
 ### Comunities
 
 * [UX Community on Slack](http://www.designerhangout.co/)
@@ -59,3 +63,8 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 * [JS for cats](http://jsforcats.com/)
 * [Screeps](https://screeps.com)
+
+#### Frameworks
+
+* [AngularJS](https://angularjs.org/)
+* [JQuery](http://jquery.com)
