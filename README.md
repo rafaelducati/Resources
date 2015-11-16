@@ -36,6 +36,21 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 
 * [Blue Vertigo](http://www.bluevertigo.com.ar/)
 
+### Material Design
+
+* [MaterialUp](http://www.materialup.com/)
+
+#### Colors
+
+* [Material Pallete](http://www.materialpalette.com/)
+* [Material Design Colors](http://www.materialui.co/colors)
+* [Random Material Generator](http://codecrafted.net/randommaterial/)
+* [Material Design Pallete Generator](http://mcg.mbitson.com/)
+* [Material Mixer](http://www.sankk.in/material-mixer/)
+* [Material Colos](http://materialcolors.com/)
+* [MaterialUp’s Material Design Colors](http://www.materialup.com/tools/colors)
+* [Tint UI](http://tintui.com/)
+
 ### Icons
 
 * [Icons Responsive](http://iconsresponsive.com/)
