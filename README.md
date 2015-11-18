@@ -5,6 +5,7 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 ## UX
 
 ### Content Stragegy
+
 * [Adaptative Path](http://www.adaptivepath.com/)
 * [52 Weeks of UX](http:/52weeksofux.com)
 * [UX Magazine](https://uxmag.com/)
@@ -29,12 +30,14 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 
 ### Inspiration
 
+* [Dribbble](https://dribbble.com/)
 * [UI Movement](http://uimovement.com/)
 * [GUI Porn](http://guiporn.com/)
 
 ### Guides
 
 * [Google Design](http://www.google.com/design/)
+* [Website Style Guide Resources](http://styleguides.io/)
 
 ### Free images repositories
 
