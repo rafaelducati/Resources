@@ -5,7 +5,7 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 ## UX
 
 ### Content Stragegy
-
+* [Adaptative Path](http://www.adaptivepath.com/)
 * [52 Weeks of UX](http:/52weeksofux.com)
 * [UX Magazine](https://uxmag.com/)
 * [Contents Magazine](http://contentsmagazine.net/)
