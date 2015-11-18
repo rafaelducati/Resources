@@ -6,11 +6,15 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 
 ### Content Stragegy
 
-* [Usability.gov](http://www.usability.gov/)
 * [52 Weeks of UX](http:/52weeksofux.com)
 * [UX Magazine](https://uxmag.com/)
 * [Contents Magazine](http://contentsmagazine.net/)
 * [The User Experience Iceberg](http://pt.slideshare.net/trevor.vangorp/ux-iceberg1)
+
+### Usability
+
+* [UIE - User Interface Enginnering](https://www.uie.com/)
+* [Usability.gov](http://www.usability.gov/)
 
 ### Talks
 
