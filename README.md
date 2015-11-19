@@ -21,7 +21,7 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 
 * [UIdeo](https://uideo.net/)
 
-### Comunities
+### Communities
 
 * [UX Community on Slack](http://www.designerhangout.co/)
 * [IXDA - Interaction Design Association](http://ixda.org/)
@@ -93,3 +93,7 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 
 * [AngularJS](https://angularjs.org/)
 * [JQuery](http://jquery.com)
+
+#### Communities
+
+* [Frontend Developers Community on Slack](http://frontenddevelopers.org/)
