@@ -83,6 +83,8 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 ### Tools
 
 * [Adobe Photoshop Cheat Sheet](http://www.setupablogtoday.com/adobe-photoshop-keyboard-shortcuts/)
+* [Sketch Cheat Sheet](https://dribbble.com/shots/1522880-Sketch-3-Cheat-Sheet/attachments/230311)
+* [Cheetyr](http://www.cheetyr.com/)
 
 ## Front-end
 
