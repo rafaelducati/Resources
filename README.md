@@ -48,6 +48,7 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 * [UI Movement](http://uimovement.com/)
 * [Use Your Interface](http://useyourinterface.com/)
 * [GUI Porn](http://guiporn.com/)
+* [100 Days UI](http://www.100daysui.com/)
 
 ### Guides
 
@@ -72,6 +73,7 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 * [Material Colos](http://materialcolors.com/)
 * [MaterialUp’s Material Design Colors](http://www.materialup.com/tools/colors)
 * [Tint UI](http://tintui.com/)
+* [Color Hunt](http://colorhunt.co/)
 
 ### Icons
 
