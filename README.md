@@ -12,6 +12,20 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 * [Contents Magazine](http://contentsmagazine.net/)
 * [The User Experience Iceberg](http://pt.slideshare.net/trevor.vangorp/ux-iceberg1)
 
+### Prototyping
+
+#### Tools
+
+* [Axure RP](http://www.axure.com/)
+* [Atomic](https://atomic.io/)
+* [Marvel](https://marvelapp.com/)
+* [Framer](http://framerjs.com/)
+* [Pixate](http://www.pixate.com/)
+* [Form](http://www.relativewave.com/form/)
+* [Flinto](https://www.flinto.com/)
+* [Origami](http://facebook.github.io/origami/)
+* [Principle](http://principleformac.com/)
+
 ### Usability
 
 * [UIE - User Interface Enginnering](https://www.uie.com/)
