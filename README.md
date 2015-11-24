@@ -64,6 +64,10 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 * [Icons Responsive](http://iconsresponsive.com/)
 * [Icon Finder](http://iconfinder.com/)
 
+### Tools
+
+* [Adobe Photoshop Cheat Sheet](http://www.setupablogtoday.com/adobe-photoshop-keyboard-shortcuts/)
+
 ## Front-end
 
 * [Codrops](http://tympanus.net/codrops/)
