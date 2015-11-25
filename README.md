@@ -25,6 +25,7 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 * [Flinto](https://www.flinto.com/)
 * [Origami](http://facebook.github.io/origami/)
 * [Principle](http://principleformac.com/)
+* [XMind](www.xmind.net)
 
 ### Usability
 
