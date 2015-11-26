@@ -80,6 +80,7 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 
 ### Icons
 
+* [Material Design Icons](https://materialdesignicons.com/)
 * [Icons Responsive](http://iconsresponsive.com/)
 * [Icon Finder](http://iconfinder.com/)
 
