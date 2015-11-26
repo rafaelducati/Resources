@@ -135,6 +135,8 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 * [Chrome Devtools Cheat Sheet](http://anti-code.com/devtools-cheatsheet/)
 * [Firebug Cheat Sheet](http://duvet-dayz.com/firebug-cheatsheet/)
 * [Vim Cheat Sheet](https://cdn.shopify.com/s/files/1/0165/4168/files/preview.png)
+* [Grid Lover](http://www.gridlover.net/)
+* [Golden Ratio Typography Calculator](http://www.pearsonified.com/typography/)
 
 ### GIT
 
