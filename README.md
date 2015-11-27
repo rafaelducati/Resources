@@ -56,11 +56,13 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 
 * [Google Design](http://www.google.com/design/)
 * [Website Style Guide Resources](http://styleguides.io/)
+* [iOS Design Guidelines](http://iosdesign.ivomynttinen.com/)
 
 ### Free images repositories
 
 * [Blue Vertigo](http://www.bluevertigo.com.ar/)
 * [Pexels](https://www.pexels.com/)
+* [Unsplash](https://unsplash.com/)
 
 ### Material Design
 
@@ -86,6 +88,8 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 
 ### Tools
 
+* [Magic Mirror](http://magicmirror.design/)
+* [TinyPNG](https://tinypng.com/)
 * [Adobe Photoshop Cheat Sheet](http://www.setupablogtoday.com/adobe-photoshop-keyboard-shortcuts/)
 * [Sketch Cheat Sheet](https://dribbble.com/shots/1522880-Sketch-3-Cheat-Sheet/attachments/230311)
 * [Sketch Shortcuts](http://sketchshortcuts.com/)
@@ -137,13 +141,14 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 * [Vim Cheat Sheet](https://cdn.shopify.com/s/files/1/0165/4168/files/preview.png)
 * [Grid Lover](http://www.gridlover.net/)
 * [Golden Ratio Typography Calculator](http://www.pearsonified.com/typography/)
+* [Macaw](http://www.macaw.co/)
 
 ### GIT
 
 * [GIT Cheat Sheet](https://raw.githubusercontent.com/hbons/git-cheat-sheet/master/preview.png)
+* [Git How To](http://githowto.com/)
 
 #### Communities
 
 * [Frontend Developers Community on Slack](http://frontenddevelopers.org/)
-
 
