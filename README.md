@@ -16,6 +16,7 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 
 #### Tools
 
+* [Prototyping Tools - Compare tools](http://prototypingtools.co/)
 * [Axure RP](http://www.axure.com/)
 * [Atomic](https://atomic.io/)
 * [Marvel](https://marvelapp.com/)
@@ -111,6 +112,7 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 * [CSS Tricks](http://css-tricks.com/)
 * [CSS Cheat Sheet](http://overapi.com/css/)
 * [CSS3 Cheat Sheet](https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/css3-cheat-sheet/css3-cheat-sheet.pdf)
+* [Flexbox Froggy - A game for learning CSS flexbox](http://flexboxfroggy.com/)
 
 ### HTML
 
