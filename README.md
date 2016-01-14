@@ -122,6 +122,12 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 * [Html5 Visual Cheat Sheet](http://i.imgur.com/NNdtF1n.jpg)
 * [Html5 Canvas Cheat Sheet](https://simon.html5.org/dump/html5-canvas-cheat-sheet.html)
 
+#### Web Components
+
+* [WebComponents.org] (http://webcomponents.org/)
+* [X-Tag](http://x-tag.github.io/)
+* [Custom Elements](https://customelements.io/)
+
 ### Javascript
 
 * [Javascript Cheat Sheet](http://overapi.com/javascript/)
@@ -155,5 +161,6 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 * [Frontend Developers Community on Slack](http://frontenddevelopers.org/)
 
 ###Jobs
+
 * [Remote | OK](https://remoteok.io/)
 
