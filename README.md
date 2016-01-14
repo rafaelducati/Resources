@@ -150,7 +150,10 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 * [GIT Cheat Sheet](https://raw.githubusercontent.com/hbons/git-cheat-sheet/master/preview.png)
 * [Git How To](http://githowto.com/)
 
-#### Communities
+### Communities
 
 * [Frontend Developers Community on Slack](http://frontenddevelopers.org/)
+
+###Jobs
+* [Remote | OK](https://remoteok.io/)
 
