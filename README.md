@@ -160,7 +160,8 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 
 * [Frontend Developers Community on Slack](http://frontenddevelopers.org/)
 
-###Jobs
+### Jobs
 
 * [Remote | OK](https://remoteok.io/)
+* [We Work Remote](https://weworkremotely.com/)
 
