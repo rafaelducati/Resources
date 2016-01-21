@@ -1,8 +1,8 @@
 # User Experience, Design, Front-end: resources
 
-A list of useful resources of various disciplines of UX, Design and Front-end.
+A list of useful resources of various disciplines of User Experience, Design and Front-end.
 
-## UX
+## User Experience
 
 ### Content Strategy
 
@@ -11,6 +11,8 @@ A list of useful resources of various disciplines of UX, Design and Front-end.
 * [UX Magazine](https://uxmag.com/)
 * [Contents Magazine](http://contentsmagazine.net/)
 * [The User Experience Iceberg](http://pt.slideshare.net/trevor.vangorp/ux-iceberg1)
+* [The Hipper Element](http://thehipperelement.com/)
+* [UX Crash Course](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals)
 
 ### Prototyping
 
