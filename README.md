@@ -44,6 +44,7 @@ A list of useful resources of various disciplines of User Experience, Design and
 * [User Experience Stack Exchange](http://ux.stackexchange.com/)
 * [UX Community on Slack](http://www.designerhangout.co/)
 * [IXDA - Interaction Design Association](http://ixda.org/)
+* [IxD Awards]([)http://awards.ixda.org/)
 
 ## Design
 
