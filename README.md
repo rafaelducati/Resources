@@ -55,6 +55,7 @@ A list of useful resources of various disciplines of User Experience, Design and
 * [Use Your Interface](http://useyourinterface.com/)
 * [GUI Porn](http://guiporn.com/)
 * [100 Days UI](http://www.100daysui.com/)
+* [Inspiration UI](http://inspirationui.com/)
 
 ### Guides
 
@@ -148,6 +149,7 @@ A list of useful resources of various disciplines of User Experience, Design and
 ### Tools
 
 * [Chrome Devtools Cheat Sheet](http://anti-code.com/devtools-cheatsheet/)
+* [DevTools Author](http://mikeking.io/devtools-author/)
 * [Firebug Cheat Sheet](http://duvet-dayz.com/firebug-cheatsheet/)
 * [Vim Cheat Sheet](https://cdn.shopify.com/s/files/1/0165/4168/files/preview.png)
 * [Grid Lover](http://www.gridlover.net/)
