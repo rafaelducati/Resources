@@ -155,6 +155,7 @@ A list of useful resources of various disciplines of User Experience, Design and
 * [Grid Lover](http://www.gridlover.net/)
 * [Golden Ratio Typography Calculator](http://www.pearsonified.com/typography/)
 * [Macaw](http://www.macaw.co/)
+* [Responsive Image Breakpoints Generator by Cloudinary](http://www.responsivebreakpoints.com/)
 
 ### GIT
 
