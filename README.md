@@ -91,6 +91,7 @@ A list of useful resources of various disciplines of User Experience, Design and
 * [MaterialUp’s Material Design Colors](http://www.materialup.com/tools/colors)
 * [Tint UI](http://tintui.com/)
 * [Color Hunt](http://colorhunt.co/)
+* [Flat UI Color picker](http://www.flatuicolorpicker.com/all)
 
 ### Icons
 
