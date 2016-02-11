@@ -125,6 +125,7 @@ A list of useful resources of various disciplines of User Experience, Design and
 * [CSS Cheat Sheet](http://overapi.com/css/)
 * [CSS3 Cheat Sheet](https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/css3-cheat-sheet/css3-cheat-sheet.pdf)
 * [Flexbox Froggy - A game for learning CSS flexbox](http://flexboxfroggy.com/)
+* [What The FlexBox?!](http://flexbox.io/)
 
 ### HTML
 
