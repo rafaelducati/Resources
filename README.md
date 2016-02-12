@@ -14,6 +14,13 @@ A list of useful resources of various disciplines of User Experience, Design and
 * [The Hipper Element](http://thehipperelement.com/)
 * [UX Crash Course](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals)
 
+### Personas
+
+#### Tools
+
+* [Make My Persona](http://makemypersona.com/)
+* [Gerador de Persona](http://criadordepersonas.com.br)
+
 ### Prototyping
 
 #### Tools
@@ -30,6 +37,7 @@ A list of useful resources of various disciplines of User Experience, Design and
 * [Origami](http://facebook.github.io/origami/)
 * [Principle](http://principleformac.com/)
 * [XMind](www.xmind.net)
+
 
 ### Usability
 
